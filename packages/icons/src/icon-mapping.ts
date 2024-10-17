@@ -1,4 +1,12 @@
 export const ICON_MAPPING = {
+  'format-font': {
+    sfSymbol: 'textformat',
+    type: 'MaterialCommunityIcons'
+  },
+  'format-size': {
+    sfSymbol: 'textformat.size',
+    type: 'MaterialIcons',
+  },
   'tray-arrow-up': {
     sfSymbol: 'square.and.arrow.up',
     type: 'MaterialCommunityIcons',
