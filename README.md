@@ -404,11 +404,13 @@ _To select the `name` from its `SF Symbol Name`, add the prop of `namingScheme="
 | folder-remove-outline           | MaterialCommunityIcons | folder.badge.minus                           |
 | football                        | MaterialCommunityIcons | football.fill                                |
 | format-bold                     | MaterialCommunityIcons | bold                                         |
+| format-font                     | MaterialCommunityIcons | textformat                                   |
 | format-italic                   | MaterialCommunityIcons | italic                                       |
 | format-list-bulleted            | MaterialCommunityIcons | list.bullet                                  |
 | format-list-checks              | MaterialCommunityIcons | checklist                                    |
 | format-quote-close              | MaterialCommunityIcons | quote.closing                                |
 | format-quote-open               | MaterialCommunityIcons | quote.opening                                |
+| format-size                     | MaterialIcons          | textformat.size                              |
 | format-strikethrough            | MaterialCommunityIcons | strikethrough                                |
 | format-underline                | MaterialCommunityIcons | underline                                    |
 | fountain-pen-tip                | MaterialCommunityIcons | pencil.tip                                   |
